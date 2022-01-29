@@ -1,2 +1,4 @@
 # flexblog
- Projeto FlexBlog, sendo feito no curso de CSS Flexbox da Origamid.
+ ### Projeto FlexBlog, feito no curso de CSS Flexbox da Origamid.
+ 
+ Deploy: https://luizgustavoabreu.github.io/flexblog
